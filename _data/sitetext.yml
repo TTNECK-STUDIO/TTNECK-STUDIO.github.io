@@ -102,7 +102,7 @@ en: &DEFAULT_EN
         role: "@hm___2ee"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://www.instagram.com/ttneck.official/
+          - url: https://www.instagram.com/hm___2ee/
             icon: fab fa-instagram
       - name: "기술 블로그(tistory)"
         role: "터틀넥 스튜디오"
