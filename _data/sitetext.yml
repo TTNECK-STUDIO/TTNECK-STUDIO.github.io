@@ -16,26 +16,25 @@ en: &DEFAULT_EN
     button: READ MORE
     buttonlink: "#services"
 
-  services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
-    list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+  about:
+    title: "About"
+    text: "자기소개"
+    body: "침착한 거북이와 같이 확실하게 문제를 해결하는 것이 제 개발 철학입니다. <br>코드의 흐름을 꼼꼼하게 따라가면서 안정적이고 견고한 소프트웨어를 만들기 위해 항상 노력하고 있습니다."
+    section: about    
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "개발한 것들"
+    text: "공군의 비즈니스 문제를 해결하기 위해 만든 서비스들입니다."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close Project"    
+
+  services:
+    title: "사용한 기술들"
+    text: "서비스들을 개발하기 위해 사용한 기술들입니다."
+    section: services
+    list:
+      - title: "Java"
+        icon: fas fa-laptop
 
   timeline:
     title: "Timeline"
@@ -68,12 +67,6 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of Our <br> Story!"
 
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
-
   clients:
     section: clients
     max-height: 100px
@@ -93,41 +86,30 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "SNS"
+    text: "개인 SNS들입니다."
+    subtext: 하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니<br> 이는 저를 믿는 자마다 멸망치 않고 영생을 얻게 하려 하심이니라. <br> <strong> 요한복음 3:16</strong>
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "개발 기록 인스타그램"
+        role: "@ttneck.official"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+          - url: https://www.instagram.com/ttneck.official/
+            icon: fab fa-instagram
+
+      - name: "현생 인스타그램"
+        role: "@hm___2ee"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://www.instagram.com/ttneck.official/
+            icon: fab fa-instagram
+      - name: "기술 블로그(tistory)"
+        role: "터틀넥 스튜디오"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://ttneckstudio.tistory.com/
+            icon: fab fa-newspaper-o
 
   contact:
     title: "Contact Us"
@@ -254,7 +236,7 @@ es: &DEFAULT_ES
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
     text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: 하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니<br> 이는 저를 믿는 자마다 멸망치 않고 영생을 얻게 하려 하심이니라. <br> <strong>John 3:16</strong>
     section: equipo
     people:
       - name: "Kay Garland"
@@ -304,7 +286,7 @@ es: &DEFAULT_ES
     submit: "Enviar Mensaje"
 
   footer:
-    legal: "Política de Privacidad"
+    legal: "Polítisdca de Privacidad"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
@@ -409,7 +391,7 @@ de: &DEFAULT_DE
   team:
     title: "Unser großartiges Team"
     text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: 하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니<br> 이는 저를 믿는 자마다 멸망치 않고 영생을 얻게 하려 하심이니라. <br> <strong>John 3:16</strong>
     section: Team
     people:
       - name: "Kay Garland"

@@ -1,22 +1,21 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
+  title: 공군 외자직구매관리체계
+  subtitle: 간단한 설명이 들어갈 공간입니다.
   thumbnail: https://place-hold.it/400x300
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+title: 공군 외자직구매관리체계
+subtitle: 간단한 설명 한줄
 
 ---
-Use this area to describe your project. **Markdown** supported.
+디테일한 서비스의 설명이 들어갈 공간입니다.
 
-optional info list (delete if not using):
+🖥 서비스 개요:
 
 {:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+- 참여기간: 
+- 의뢰부처: 
+- 분류 :
+- [링크](https://www.aflc.mil.kr:8604/lcint/applications/int05/index.jsp)
 
