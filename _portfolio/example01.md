@@ -1,14 +1,17 @@
 ---
 caption: #what displays in the portfolio grid:
   title: 공군 e-피복 shop
-  subtitle: 인터넷
-  thumbnail: https://place-hold.it/400x300
+  subtitle: Internet Service
+  thumbnail: /assets/img/portfolio/service01.png
   
 #what displays when the item is clicked:
 title : 공군 e-피복 shop
-subtitle: ⚠️ 본 내용은 허가를 받은 범위 내에서 게시되고 있습니다.
+subtitle: ⚠️ <br>본 내용은 허가를 받은 범위 내에서 게시되고 있습니다.<br>* 이미지를 누르시면 링크로 이동합니다.
 
 ---
+<a href="https://www.aflc.mil.kr:8604/lcint/applications/eshop/login/index.jsp">
+<img src="/assets/img/portfolio/service01-1.png" style="width:640px; height:360px;"/>
+</a>
 
 <strong>🖥 서비스 개요</strong><br>: 
 
@@ -17,5 +20,4 @@ subtitle: ⚠️ 본 내용은 허가를 받은 범위 내에서 게시되고 �
 - <strong>2️⃣ 참여부분</strong><br>: ㅇㅇㅇ<br><br>
 - <strong>2️⃣ 의뢰부처</strong><br>: 공군 군수사령부 항공자원관리단<br><br>
 - <strong>3️⃣ 활용기술</strong><br>: java, jsp, javsscript, oracle<br><br>
-- [링크](https://www.aflc.mil.kr:8604/lcint/applications/eshop/login/index.jsp)
 
