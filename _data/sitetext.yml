@@ -34,7 +34,33 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Java"
+        desc: Back-End
+        icon: fas fa-coffee #find more at https://fontawesome.com/icons
+      - title: "JSP"
+        desc: Back-End      
         icon: fas fa-laptop
+      - title: "eGovFramework"
+        desc: Back-End      
+        icon: fas fa-leaf        
+      - title: "JavaScript"  
+        desc: Back-End, Front-End      
+        icon: fas fa-laptop
+      - title: "Jquery"
+        desc: Front-End      
+        icon: fas fa-wifi
+      - title: "Oracle"
+        desc: Database      
+        icon: fas fa-database          
+      - title: "Tibero" 
+        desc: Database      
+        icon: fas fa-database                 
+      - title: "SVN"
+        desc: ETC         
+        icon: fas fa-server        
+      - title: "GitHub"   
+        desc: ETC      
+        icon: fab fa-github        
+
 
   timeline:
     title: "Timeline"
@@ -86,8 +112,8 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "SNS"
-    text: "개인 SNS들입니다."
+    title: "SNS & Contact"
+    text: "e-mail(ttneck01@gmail.com) or DM"
     subtext: 하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니<br> 이는 저를 믿는 자마다 멸망치 않고 영생을 얻게 하려 하심이니라. <br> <strong> 요한복음 3:16</strong>
     section: team
     people:
@@ -98,18 +124,19 @@ en: &DEFAULT_EN
           - url: https://www.instagram.com/ttneck.official/
             icon: fab fa-instagram
 
-      - name: "현생 인스타그램"
-        role: "@hm___2ee"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://www.instagram.com/hm___2ee/
-            icon: fab fa-instagram
       - name: "기술 블로그(tistory)"
         role: "터틀넥 스튜디오"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://ttneckstudio.tistory.com/
-            icon: fab fa-newspaper-o
+            icon: fas fa-blog  #find more at https://fontawesome.com/icons
+
+      - name: "현생 인스타그램"
+        role: "@hm___2ee"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://www.instagram.com/hm___2ee/
+            icon: fab fa-instagram            
 
   contact:
     title: "Contact Us"
