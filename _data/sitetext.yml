@@ -112,28 +112,28 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "SNS & Contact"
+    title: "Contact Point"
     text: "e-mail(ttneck01@gmail.com) or DM"
     subtext: 하나님이 세상을 이처럼 사랑하사 독생자를 주셨으니<br> 이는 저를 믿는 자마다 멸망치 않고 영생을 얻게 하려 하심이니라. <br> <strong> 요한복음 3:16</strong>
     section: team
     people:
       - name: "개발 기록 인스타그램"
         role: "@ttneck.official"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/ttneck2.jpeg
         social:
           - url: https://www.instagram.com/ttneck.official/
             icon: fab fa-instagram
 
       - name: "기술 블로그(tistory)"
         role: "터틀넥 스튜디오"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/ttneckstudio.png
         social:
           - url: https://ttneckstudio.tistory.com/
             icon: fas fa-blog  #find more at https://fontawesome.com/icons
 
       - name: "현생 인스타그램"
         role: "@hm___2ee"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/hm.jpeg
         social:
           - url: https://www.instagram.com/hm___2ee/
             icon: fab fa-instagram            
